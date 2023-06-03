@@ -122,13 +122,8 @@ function colisaoRacketBlibio(){
 }
 
 function movRaqueteCPU(){
-  if (keyIsDown(87)){
-    YraqueteCPU -= 12;
-  }
-  if (keyIsDown(83)){
-    YraqueteCPU += 12;
-  }
- 
+  velocidadeYcpu = VelocidadeYbola *0.300 *1.990;
+  YraqueteCPU += velocidadeYcpu;
 }
 
 function Placar(){
