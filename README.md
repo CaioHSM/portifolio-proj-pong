@@ -8,7 +8,7 @@ ainda estou aprendendo entao pode ter alguns pequenos bugs.
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: CAIO HENRIQUE S NELO     | PONG
+| :sparkles: CAIO HENRIQUE S MELO     | PONG
 | :label: Tecnologias | java
 | :rocket: URL         | https://github.com/CaioHSM/portifolio-proj-pong/edit/main/README.md
 | :fire: Desafio     | 
