@@ -14,5 +14,5 @@ ainda estou aprendendo entao pode ter alguns pequenos bugs.
 | :fire: Desafio     | 
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![]([https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto](https://raw.githubusercontent.com/CaioHSM/portifolio-proj-pong/main/imgpong.jpg.#vitrinedev)
+![]([https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto](https://raw.githubusercontent.com/CaioHSM/portifolio-proj-pong/main/imgpong.jpg#vitrinedev)
 
